@@ -1,0 +1,33 @@
+{
+  "name": "steam-cdn-enumerate",
+  "version": "1.0.0",
+  "description": "Dumps a list of all known Steam CDN servers",
+  "main": "index.js",
+  "dependencies": {
+    "vdf": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OpenSourceLAN/steam-cdn-enumerate.git"
+  },
+  "keywords": [
+    "steam",
+    "cdn",
+    "list",
+    "content",
+    "server",
+    "lan",
+    "cache",
+    "lancache"
+  ],
+  "author": "Chris Holman (OpenSourceLAN)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OpenSourceLAN/steam-cdn-enumerate/issues"
+  },
+  "homepage": "https://github.com/OpenSourceLAN/steam-cdn-enumerate#readme"
+}
